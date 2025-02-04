@@ -1196,7 +1196,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffe0ff;
+  background: #47c6ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2203,7 +2203,7 @@ embed {
   text-align: center;
 }
 .custom-logo .site-title {
-  color: #c83434;
+  color: #222;
   margin: 10px auto 0;
 }
 .custom-logo .site-title a {
